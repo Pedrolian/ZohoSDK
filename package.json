@@ -1,0 +1,34 @@
+{
+  "name": "@pedrolian/zcrmsdk",
+  "version": "1.0.0",
+  "description": "ZCRM Rest Client API",
+  "main": "lib/js/ZCRMRestClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedrolian/ZohoSDK.git"
+  },
+  "keywords": [
+    "Node",
+    "Zoho",
+    "CRM",
+    "API"
+  ],
+  "author": "Pedrolian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedrolian/ZohoSDK/issues"
+  },
+  "homepage": "https://github.com/Pedrolian/ZohoSDK#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
