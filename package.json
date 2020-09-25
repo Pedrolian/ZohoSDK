@@ -1,6 +1,6 @@
 {
   "name": "@pedrolian/zcrmsdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ZCRM Rest Client API",
   "main": "lib/js/ZCRMRestClient.js",
   "scripts": {
